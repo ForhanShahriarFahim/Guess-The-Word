@@ -1,3 +1,3 @@
-# Application Architecture - Guess It Game!
+# Application Architecture - Guess The Word Game!
 
 
