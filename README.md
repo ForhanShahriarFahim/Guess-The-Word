@@ -1,3 +1,3 @@
-# Application Architecture - The UI Layer - Guess It!
+# Application Architecture - Guess It Game!
 
 
