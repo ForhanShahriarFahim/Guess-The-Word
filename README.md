@@ -1,3 +1,3 @@
-# Application Architecture - Guess The Word Game!
+# Assignement 4 - Guess The Word Game!
 
 
